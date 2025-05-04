@@ -1,9 +1,9 @@
-# Project Name
+# Synaptik Redis
 
-Description
+Redis integration for the Synaptik framework
 
 ## Installation
 
 ```sh
-npm install @sektek/project-name
+npm install @sektek/synaptik-redis
 ```
